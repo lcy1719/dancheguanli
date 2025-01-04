@@ -1,6 +1,4 @@
-> **代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！代码介绍图片在最下面！！！滑轮往下拉查看效果图！！！！！！！！！！**
-## 源码获取（4.9米）：
-![微信图片_20241218164848](https://github.com/user-attachments/assets/728a9cbf-c99d-4183-8970-3884ed6287c1)
+
 
 【送报告】共享单车管理系统 SSM｜JSP｜JavaWeb
 
@@ -11,6 +9,10 @@
 ④：技术栈：Java、JSP、Spring、SpringMVC、Mybatis、拦截器
 
 主要功能功能：系统用户管理、服务点管理、单车管理、分类管理、录入学生、单车租赁、信息统计管理等
+
+> **代码提供有偿远程调试，29包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
+## 源码获取（4.9元包含代码+数据库+有的送报告文档具体扫码询问，代码截图、功能效果截图在下面）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 ![image](https://github.com/user-attachments/assets/2c9c8655-589f-4ac4-b53c-abfd6e6476a3)
 ![image](https://github.com/user-attachments/assets/fd452f5b-e538-4c1a-ac91-21df85b07d7a)
 ![image](https://github.com/user-attachments/assets/7556fcd3-709d-4021-9cd5-8df0ab5d66ab)
